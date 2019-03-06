@@ -1,0 +1,13 @@
+name: py27_gdal
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=2.7.15
+  - ipython
+  - jupyter
+  - gdal=2.0
+  - cartopy
+  - pandas
+  - seaborn
+  - obspy
