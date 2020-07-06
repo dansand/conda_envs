@@ -1,0 +1,5 @@
+name: py3_vtk
+dependencies:
+  - ipython
+  - jupyter
+  - vtk

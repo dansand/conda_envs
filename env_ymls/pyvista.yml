@@ -1,0 +1,12 @@
+name: pyvista
+channels:
+  - conda-forge
+dependencies:
+  - pyvista
+  - jupyter
+  - scipy
+  - pandas
+  - matplotlib
+  - netcdf4
+  - trimesh
+  - rtree

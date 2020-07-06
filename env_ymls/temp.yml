@@ -1,0 +1,10 @@
+name: py3_mapping
+channels:
+  - conda-forge
+dependencies:
+  - rasterio
+  - jupyter
+  - matplotlib
+  - pygmt
+
+

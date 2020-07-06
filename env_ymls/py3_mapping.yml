@@ -1,0 +1,17 @@
+name: py3_mapping
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - jupyter
+  - rasterio
+  - cartopy
+  - pyvista
+  - rasterstats
+  - pyshtools
+  - verde
